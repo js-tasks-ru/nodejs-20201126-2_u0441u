@@ -19,4 +19,3 @@ describe('intro/sum', () => {
     })
   });
 });
-
